@@ -20,11 +20,9 @@ const JobListingsContainer = () => {
   return (
     <div className="lg:py-14 py-7">
       <CategoryFilter setFilter={setFilter} activeFilter={filter} />
-      <div className="overflow-y-scroll min-h-[200px]">
-        {filteredListings.map((job) => (
-          <JobListing key={job.id} title={job.title} id={job.id} />
-        ))}
-      </div>
+      {filteredListings.map((job) => (
+        <JobListing key={job.id} title={job.title} id={job.id} />
+      ))}
     </div>
   );
 };
