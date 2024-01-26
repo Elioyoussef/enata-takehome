@@ -232,13 +232,13 @@ const JobDetails = () => {
               onChange={handleChange}
               required
               rows="5"
-              className="mt-1 block w-full px-3 border pb-40 border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500 sm:text-sm text-[#333]"
+              className="mt-1 block w-full px-3 border pb-40 border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500 sm:text-sm text-[#333] py-3"
             />
           </div>
-          <div className="max-w-[250px] mx-auto">
+          <div className="max-w-[250px] mx-auto pb-6">
             <button
               type="submit"
-              className="bg-[#333] hover:text-teal-500 text-white font-bold py-2 px-4 rounded"
+              className="bg-[#333] hover:text-teal-500 text-white font-bold py-2 px-4 rounded w-full transition-all ease-in-out duration-300"
             >
               Submit your candidacy
             </button>

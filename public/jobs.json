@@ -1,67 +1,54 @@
 [
-    {
-        "id": 1,
-        "title": "Front End Developer",
-        "category": "Dev",
-        "description": "As a Front End Developer, you will be responsible for implementing visual elements that are visible from the user's vantage point within a web application. This role combines the art of design with the art of programming. You will work closely with our web designers to bridge the gap between graphical design and technical implementation, taking an active role in defining how the application looks as well as how it works.",
-        "requirements": [
-            "Proficiency in HTML, CSS, JavaScript",
-            "Experience with React and Redux",
-            "Familiarity with RESTful APIs and AJAX",
-            "Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS",
-            "Good understanding of responsive design and cross-browser compatibility issues"
-        ]
-    },
-    {
-        "id": 2,
-        "title": "Back End Developer",
-        "category": "Dev",
-        "description": "The Back End Developer will focus on the server-side of our web applications. You will be responsible for managing the interchange of data between the server and the users, as well as translating the UI/UX design wireframes to actual code that will produce the visual elements of the application. Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front end.",
-        "requirements": [
-            "Expert knowledge of Node.js and frameworks available for it, such as Express",
-            "Understanding of accessibility and security compliance",
-            "User authentication and authorization between multiple systems, servers, and environments",
-            "Integration of multiple data sources and databases into one system",
-            "Familiarity with front-end technologies (like JavaScript and HTML5)"
-        ]
-    },
-    {
-        "id": 3,
-        "title": "Product Manager",
-        "category": "Business",
-        "description": "The Product Manager will oversee the development and lifecycle of products, from conception to market launch and beyond. You will be responsible for defining product vision, strategy, and roadmap, working closely with cross-functional teams to deliver high-quality products. The role involves conducting market research, generating product requirements, and determining specifications, production timetables, pricing, and time-integrated plans for product introduction.",
-        "requirements": [
-            "Proven experience in product management or as an associate product manager",
-            "Strong problem-solving skills and willingness to roll up one\u2019s sleeves to get the job",
-            "Skilled at working effectively with cross-functional teams in a matrix organization",
-            "Excellent written and verbal communication skills",
-            "MS/BS degree in Computer Science, Engineering or equivalent preferred"
-        ]
-    },
-    {
-        "id": 4,
-        "title": "UX/UI Designer",
-        "category": "Design",
-        "description": "As a UX/UI Designer, you will be responsible for creating a delightful user experience in our software applications. You will understand the product specifications and user psychology, conducting concept and usability testing and gathering feedback. Your goal will be to create products that are user-friendly and intuitive to attract and retain customers.",
-        "requirements": [
-            "Proven experience as a UX Designer, UI Designer, or similar role",
-            "Strong portfolio of design projects",
-            "Familiarity with interaction design and information architecture",
-            "Proficient in design software (e.g., UXPin, Balsamiq)",
-            "Problem-solving aptitude and analytical mind"
-        ]
-    },
-    {
-        "id": 5,
-        "title": "Financial Analyst",
-        "category": "Accounting",
-        "description": "Our company is seeking a Financial Analyst who will be responsible for tracking a company's financial performance against a plan, analyzing business performance and market conditions to create forecasts, and helping senior management make tactical and strategic decisions by providing periodic reports. You will also be in charge of identifying trends in financial performance and providing recommendations for improvement.",
-        "requirements": [
-            "Ability to synthesize large quantities of complex data into actionable information",
-            "Ability to work and effectively communicate with senior-level business partners",
-            "Excellent business judgment, analytical, and decision-making skills",
-            "Knowledge of financial reporting and data mining tools such as SQL, Access, etc.",
-            "Strong demonstrated use of Excel, Word, and PowerPoint"
-        ]
-    }
+  {
+    "id": 1,
+    "title": "Front End Developer",
+    "category": "Dev",
+    "description": "As a Front End Developer, you will be responsible for implementing visual elements that are visible from the user's vantage point within a web application. This role combines the art of design with the art of programming. You will work closely with our web designers to bridge the gap between graphical design and technical implementation, taking an active role in defining how the application looks as well as how it works.",
+    "requirements": [
+      "Proficiency in HTML, CSS, JavaScript",
+      "Experience with React and Redux",
+      "Familiarity with RESTful APIs and AJAX",
+      "Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS",
+      "Good understanding of responsive design and cross-browser compatibility issues"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Back End Developer",
+    "category": "Dev",
+    "description": "The Back End Developer will focus on the server-side of our web applications. You will be responsible for managing the interchange of data between the server and the users, as well as translating the UI/UX design wireframes to actual code that will produce the visual elements of the application. Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front end.",
+    "requirements": [
+      "Expert knowledge of Node.js and frameworks available for it, such as Express",
+      "Understanding of accessibility and security compliance",
+      "User authentication and authorization between multiple systems, servers, and environments",
+      "Integration of multiple data sources and databases into one system",
+      "Familiarity with front-end technologies (like JavaScript and HTML5)"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Product Manager",
+    "category": "Business",
+    "description": "The Product Manager will oversee the development and lifecycle of products, from conception to market launch and beyond. You will be responsible for defining product vision, strategy, and roadmap, working closely with cross-functional teams to deliver high-quality products. The role involves conducting market research, generating product requirements, and determining specifications, production timetables, pricing, and time-integrated plans for product introduction.",
+    "requirements": [
+      "Proven experience in product management or as an associate product manager",
+      "Strong problem-solving skills and willingness to roll up one\u2019s sleeves to get the job",
+      "Skilled at working effectively with cross-functional teams in a matrix organization",
+      "Excellent written and verbal communication skills",
+      "MS/BS degree in Computer Science, Engineering or equivalent preferred"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "UX/UI Designer",
+    "category": "Design",
+    "description": "As a UX/UI Designer, you will be responsible for creating a delightful user experience in our software applications. You will understand the product specifications and user psychology, conducting concept and usability testing and gathering feedback. Your goal will be to create products that are user-friendly and intuitive to attract and retain customers.",
+    "requirements": [
+      "Proven experience as a UX Designer, UI Designer, or similar role",
+      "Strong portfolio of design projects",
+      "Familiarity with interaction design and information architecture",
+      "Proficient in design software (e.g., UXPin, Balsamiq)",
+      "Problem-solving aptitude and analytical mind"
+    ]
+  }
 ]
