@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Front End Developer",
-    "category": "Dev",
+    "category": "Development",
     "description": "As a Front End Developer, you will be responsible for implementing visual elements that are visible from the user's vantage point within a web application. This role combines the art of design with the art of programming. You will work closely with our web designers to bridge the gap between graphical design and technical implementation, taking an active role in defining how the application looks as well as how it works.",
     "requirements": [
       "Proficiency in HTML, CSS, JavaScript",
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "title": "Back End Developer",
-    "category": "Dev",
+    "category": "Development",
     "description": "The Back End Developer will focus on the server-side of our web applications. You will be responsible for managing the interchange of data between the server and the users, as well as translating the UI/UX design wireframes to actual code that will produce the visual elements of the application. Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front end.",
     "requirements": [
       "Expert knowledge of Node.js and frameworks available for it, such as Express",
@@ -36,19 +36,6 @@
       "Skilled at working effectively with cross-functional teams in a matrix organization",
       "Excellent written and verbal communication skills",
       "MS/BS degree in Computer Science, Engineering or equivalent preferred"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "UX/UI Designer",
-    "category": "Design",
-    "description": "As a UX/UI Designer, you will be responsible for creating a delightful user experience in our software applications. You will understand the product specifications and user psychology, conducting concept and usability testing and gathering feedback. Your goal will be to create products that are user-friendly and intuitive to attract and retain customers.",
-    "requirements": [
-      "Proven experience as a UX Designer, UI Designer, or similar role",
-      "Strong portfolio of design projects",
-      "Familiarity with interaction design and information architecture",
-      "Proficient in design software (e.g., UXPin, Balsamiq)",
-      "Problem-solving aptitude and analytical mind"
     ]
   }
 ]

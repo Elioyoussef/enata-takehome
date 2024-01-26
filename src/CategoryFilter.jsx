@@ -1,6 +1,6 @@
 import React from "react";
 
-const categories = ["All", "Dev", "Business", "Design"];
+const categories = ["All", "Development", "Business"];
 
 const CategoryFilter = ({ setFilter, activeFilter }) => {
   return (
