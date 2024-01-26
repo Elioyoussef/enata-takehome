@@ -4,7 +4,7 @@ const categories = ['All', 'Dev', 'Business', 'Accounting'];
 
 const CategoryFilter = ({ setFilter, activeFilter }) => {
   return (
-    <div className='flex gap-10 pb-5'>
+    <div className='flex gap-7 lg:gap-10 pb-5'>
       {categories.map(category => (
         <button
           key={category}

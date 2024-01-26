@@ -18,10 +18,10 @@ const JobListingsContainer = () => {
   );
 
   return (
-    <div className='pt-10'>
+    <div className='lg:py-14 py-7'>
       <CategoryFilter setFilter={setFilter} activeFilter={filter} />
       {filteredListings.map(job => (
-        <JobListing key={job.id} title={job.title} />
+        <JobListing key={job.id} title={job.title} id={job.id} />
       ))}
     </div>
   );
