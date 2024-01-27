@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     screens: {
       lg: "1440px",
-      // => @media (min-width: 1280px) { ... }
+      md: "375px",
+      sm: "0px"
     },
   },
   plugins: [],
