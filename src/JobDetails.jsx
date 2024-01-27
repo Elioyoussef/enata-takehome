@@ -198,6 +198,7 @@ const JobDetails = () => {
               type="file"
               id="picture"
               name="picture"
+              accept=".png,.jpg,.jpeg"
               onChange={handleChange}
               className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500 sm:text-sm"
             />
@@ -215,6 +216,7 @@ const JobDetails = () => {
               id="resume"
               name="resume"
               onChange={handleFileChange}
+              accept=".docx,.pdf"
               required
               className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500 sm:text-sm"
             />
