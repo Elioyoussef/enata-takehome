@@ -75,7 +75,7 @@ const JobDetails = () => {
     return <div className="pt-80 bg-white text-center">Job not found.</div>;
   }
   return (
-    <div className="lg:px-20 py-20 px-4 text-white">
+    <div className="lg:px-20 py-20 px-6 text-white">
       <h1 className="lg:text-5xl text-center text-xl font-bold">{job.title}</h1>
       <h3 className="lg:text-2xl lg:py-5 py-3 font-semibold">Description:</h3>
       <p>{job.description}</p>
