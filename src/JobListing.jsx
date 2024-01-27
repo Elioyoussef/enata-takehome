@@ -9,7 +9,7 @@ const JobListing = ({ id, title }) => {
     history(`/job/${id}`);
   };
   return (
-    <div className="flex justify-between align-top py-4 gap-2 hover:border-white hover:border-dashed hover:border">
+    <div className="flex justify-between items-center py-4 gap-2 hover:border-white hover:border-dashed hover:border">
       <div className="border border-white rounded-full">
         <div className="max-w-[40px] p-2">
           <img src={accountLogo} alt="" className="block w-full" />
