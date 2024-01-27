@@ -15,7 +15,7 @@ const JoinUsBanner = () => {
   };
   return (
     <div>
-      <h1 className="lg:text-5xl text-2xl md:text-center font-thin max-w-[260px] sm:mx-auto text-white lg:pt-12">
+      <h1 className="lg:text-5xl text-2xl md:text-center font-thin max-w-[260px] sm:mx-auto text-white">
         Work with us
       </h1>
       <Lottie options={defaultOptions} height={200} width={300} className=""/>
