@@ -14,11 +14,11 @@ const JoinUsBanner = () => {
     animationData: animation,
   };
   return (
-    <div>
+    <div className="max-w-[300px]">
       <h1 className="lg:text-5xl text-2xl md:text-center font-thin max-w-[260px] sm:mx-auto text-white">
         Work with us
       </h1>
-      <div className="max-w-[200px] h-auto">
+      <div className="max-w-[200px] h-[100px] pb-5">
        <Lottie options={defaultOptions} className=""/>
       </div>
     </div>
